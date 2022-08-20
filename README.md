@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elsicher
-- I make BetterDiscord Themes
+- I created BetterDiscord Themes 😔
 - I like Berserk ;(
 
 <!---
