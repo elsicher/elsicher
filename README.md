@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elsicher
 - I make BetterDiscord Themes
-- I like Berserk LOL ;(
+- I like Berserk ;(
 
 <!---
 elsicher/elsicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
